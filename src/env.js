@@ -1,11 +1,11 @@
 export const config = {
-    ENDPOINT: "https://v1.nocodeapi.com/betauser/uptime/dHmQOXeWbdNuJsII?monitors=784130459-784130462",
+    ENDPOINT: "https://v1.nocodeapi.com/fansz/uptime/TCtYrRDnljUSAwet?monitors=788155192-780132861",
 
-    title: "NoCodeAPI",
+    title: "UpTime",
 
-    website: "https://nocodeapi.com",
+    website: "https://status.fansz.club",
 
-    twitterHandle: "@nocodeapi",
+    twitterHandle: "@fanscityeu",
     
-    twitterURL: "https://twitter.com/nocodeapi"
+    twitterURL: "https://twitter.com/fanscityeu"
 }
